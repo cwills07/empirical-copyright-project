@@ -1,2 +1,1 @@
-# empirical-copyright-project
-Empirical Copyright Project
+# Empirical Copyright Project
